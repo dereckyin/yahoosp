@@ -1,0 +1,8 @@
+雅虎取單程式是提供
+192.168.100.30呼叫使用
+
+可以執行
+run.bat
+
+或是執行
+python yahoo_delivery.py
